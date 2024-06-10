@@ -1,7 +1,6 @@
-price_coffe = 10.25
-
-num_coffe_shots = 5
-
-x = price_coffe * num_coffe_shots
-
-print(x)
+hazine_zamin_metri = 10
+masahate_zamin = 20
+hazineye_zamin = hazine_zamin_metri * masahate_zamin
+masahate_zamin = 30
+print( hazineye_zamin )
+ 
