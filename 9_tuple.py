@@ -1,3 +1,4 @@
-tuple1 = (1, 2, 3)
+import random
+x = randint(4,12)
 
-print(tuple1)
+print(x)
